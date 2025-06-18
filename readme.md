@@ -6,11 +6,11 @@ Sistem absensi berbasis WebApp yang dirancang untuk menyederhanakan pelacakan wa
 
 ### Fungsionalitas Inti
 
+- **Tracing GPS** - Sistem Track GPS untuk menyesuaikan long dan latitude user dengan tempat kerja
+- **Selfie** - Potret wajah dilengkapi dengan pendeteksi wajah untuk kehadiran
+- **Perizinan** - Pengajuan perizinan langsung tanpa harus berpindah ke aplikasi lain
+- **Monitoring Dashboard** - Monitoring atasan terhadap performa absensi guru
 - **Pelacakan Absensi Real-time** - Sistem clock-in/clock-out yang akurat
-- **Manajemen Karyawan** - Pengelolaan database staff yang komprehensif
-- **Generasi Laporan Otomatis** - Analitik dan pelaporan absensi yang detail
-- **Dukungan Multi-lokasi** - Pelacakan absensi di berbagai lokasi kantor
-- **Kontrol Akses Berbasis Peran** - Manajemen akses yang aman untuk berbagai level pengguna
 
 ## Otorisasi
 
