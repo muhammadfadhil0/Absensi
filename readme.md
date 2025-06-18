@@ -1,6 +1,6 @@
 # Aplikasi Absensi
 
-Sistem absensi yang dirancang untuk menyederhanakan pelacakan waktu karyawan dan pemantauan absensi dengan kemampuan pengelolaan data yang kuat.
+Sistem absensi berbasis WebApp yang dirancang untuk menyederhanakan pelacakan waktu karyawan dan pemantauan absensi dengan kemampuan pengelolaan data yang kuat.
 
 ## Fitur Utama
 
@@ -28,4 +28,4 @@ Sistem absensi yang dirancang untuk menyederhanakan pelacakan waktu karyawan dan
 - Ajukan izin/cuti
 - Update profil personal
 
-Saat ini absensi di dikembangkan dan dikelola oleh Muhammad Fadhil Manfa (owner) selaku pengembang utama.
+Secara umum aplikasi absensi ini berbasis web, namun dikemas menjadi aplikasi dengan kotlin. Saat ini absensi di dikembangkan dan dikelola oleh Muhammad Fadhil Manfa (owner) selaku pengembang utama.
